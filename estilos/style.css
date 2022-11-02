@@ -34,7 +34,7 @@ body {
 }
 
 a.externo::after {
-    content: '00A0\1f517';
+    content: '\1f517';
 }
 
 header {
